@@ -2,16 +2,16 @@
 
 ## Table of Contents ##
 
-* [Introduction]
-* [The Problem]
-  * [Analysis of the Problem ]
-  * [Package Thefts (Facts)]
-* [Solution]
-  * [Solution Workflow]
-  * [Evaluation of the Proposed Solution]
-* [Conclusion]
-* [References]
-* [Contact Us]
+* [Introduction](https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/README.md#introduction)
+* [The Problem](https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/README.md#problem)
+  * [Analysis of the Problem](https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/README.md#analysis-of-the-problem)
+  * [Package Thefts (Facts)](https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/README.md#package-thefts-facts)
+* [Proposed Solution](https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/README.md#proposed-solution)
+  * [Solution Workflow](https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/README.md#solution-workflow)
+  * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/README.md#evaluation-of-the-proposed-solution)
+* [Conclusion](https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/README.md#conclusion)
+* [References](https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/README.md#references)
+* [Contact Us](https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/README.md#contact-us)
 
 
 ## Introduction ##
