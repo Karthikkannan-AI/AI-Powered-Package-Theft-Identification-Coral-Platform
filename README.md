@@ -12,7 +12,7 @@
 * [Conclusion](https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/README.md#conclusion)
 * [References](https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/README.md#references)
 * [Contact Us](https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/README.md#contact-us)
-* [Rebounding from COVID-19]()
+* [Rebounding from COVID-19](https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform#rebounding-from-covid-19)
 
 
 ## Introduction ##
