@@ -12,12 +12,14 @@
 * [Conclusion](https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/README.md#conclusion)
 * [References](https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/README.md#references)
 * [Contact Us](https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/README.md#contact-us)
+* [Rebounding from COVID-19]()
 
 
 ## Introduction ##
 
 Online shopping has reached an all-time high due to the coronavirus pandemic and there is a huge surge in Package Theft ( package left on the door by the delivery personnel ). We have built a Proof of Concept of identifying the Package from the real-time CCTV stream when it arrives/ placed on the door side and intimates the house owner if the Package is taken away. (  __ALARM__ is triggered )
 
+- - - -
 
 ## Problem ##
 
@@ -39,6 +41,9 @@ In this particular demonstration we will focus on the package theft problem in U
 ### Package Thefts (Facts) ###
 
 <img src="https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/resources/Package%20Theft%20Ranking.png?raw=true" width="100%">
+
+
+- - - -
 
 
 ## Proposed Solution ##
@@ -93,6 +98,8 @@ alt="Package AI - Test 2" width="75%" /></a>
 alt="Package AI - Test 2" width="75%" /></a> 
 
 
+- - - -
+
 
 ## Conclusion ##
 
@@ -100,11 +107,17 @@ alt="Package AI - Test 2" width="75%" /></a>
 * We have considered only carton boxes of different shapes and size for Package, Further works are required to improve the detection accuracy with various other packages other than carton boxes 
 
 
+- - - -
+
+
 ## References ##
 
 1. https://www.security.org/resources/stolen-packages-survey/
 2. https://www.cnbc.com/2020/01/10/package-theft-how-amazon-google-others-are-fighting-porch-pirates.html
 3. https://www.nytimes.com/2019/12/02/nyregion/online-shopping-package-theft.html
+
+
+- - - -
 
 
 ## Contact Us ##
@@ -126,6 +139,11 @@ __Email : karthik@etopdigital.com / sales@etopdigital.com__
 __Phone : 9944865029__
 
 <img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/About%20ETOP%20Technologies_Github.png">
+
+- - - -
+
+## Rebounding from COVID-19 ##
+
 
 The COVID-19 pandemic has profoundly influenced the lives of most people on the planet.
 
