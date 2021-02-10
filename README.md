@@ -65,7 +65,7 @@ To arrive at the solution, we have to go through 5 major steps
 
 
 
-<a href="https://youtu.be/mMvSNhvZ56c" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/resources/Package%20Detection%20Video%201.png?raw=true" 
+<a href="https://youtu.be/CYf-sTm-sTQ" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/resources/Package%20Detection%20Video%201.png?raw=true" 
 alt="Package AI - Test 1" width="75%"  /></a> 
 
 
@@ -73,7 +73,7 @@ alt="Package AI - Test 1" width="75%"  /></a>
 
 
 
-<a href="https://youtu.be/RZKY4oaE7E8" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/resources/Package%20Detection%20Video%202.png?raw=true" 
+<a href="https://youtu.be/gKIF3UnNtws" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/resources/Package%20Detection%20Video%202.png?raw=true" 
 alt="Package AI - Test 2" width="75%" /></a> 
 
 
@@ -81,7 +81,7 @@ alt="Package AI - Test 2" width="75%" /></a>
 
 
 
-<a href="https://youtu.be/Vyaga6PCK7I" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/resources/Package%20Detection%20Video%203.png?raw=true" 
+<a href="https://youtu.be/5MM6RnmMWOU" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/resources/Package%20Detection%20Video%203.png?raw=true" 
 alt="Package AI - Test 2" width="75%" /></a> 
 
 
@@ -89,7 +89,7 @@ alt="Package AI - Test 2" width="75%" /></a>
 
 
 
-<a href="https://youtu.be/VnzSjJf439o" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/resources/Package%20Detection%20Video%204.png?raw=true" 
+<a href="https://youtu.be/MaRxr5XmlD8" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Coral-Platform/blob/main/resources/Package%20Detection%20Video%204.png?raw=true" 
 alt="Package AI - Test 2" width="75%" /></a> 
 
 
